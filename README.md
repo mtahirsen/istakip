@@ -10,3 +10,7 @@ Adres : http://www.takipsiteniz.com/admin.php
 Kullanıcı Adı : admin
 
 Şifre : a123456 (Şifrenizi değiştirmeyi unutmayınız.)
+
+# Güncellemeler
+v.1.1
+- Ödeme listesine müşteri ve proje detayları eklendi. (2016-05-01)

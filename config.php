@@ -8,8 +8,8 @@ define("db_pass","root");
 define("db_name","istakip");
 
 # Title bilgileri
-define("admin_title","<strong>İşGüç</strong>Takip v1");
-define("admin_login_title","<strong>İşGüç</strong>Takip v1");
+define("admin_title","<strong>İşGüç</strong>Takip v1.1");
+define("admin_login_title","<strong>İşGüç</strong>Takip v1.1");
 
 # Yönetim Paneli Üst Menü Linkleri
 $top_menu_links = array(
